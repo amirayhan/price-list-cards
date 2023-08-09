@@ -1,0 +1,20 @@
+[
+    {
+        "id": "64d360c124438343e76c35ee",
+        "name": "Basic Membership",
+        "price": 29,
+        "features": ["Access to gym equipment", "Locker room access"]
+    },
+    {
+        "id": "64d360c124438343e76c35ef",
+        "name": "Silver Membership",
+        "price": 49,
+        "features": ["Access to gym equipment", "Locker room access", "Group fitness classes"]
+    },
+    {
+        "id": "64d360c124438343e76c35f0",
+        "name": "Gold Membership",
+        "price": 79,
+        "features": ["Access to gym equipment", "Locker room access", "Group fitness classes", "Personal training sessions"]
+    }
+]
